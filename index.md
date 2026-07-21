@@ -35,3 +35,8 @@ Judge what's here on its merits — it's real work, genuinely mine, sanitized ra
 If anything, I'd offer this profile itself as a small data point about how I work: I understood the requirement, met it honestly, and told you exactly what trade-offs were behind it.
 
 That's how I run infrastructure, too.
+
+# Still Todo:
+
+- [ ] Finish the gitea/github heatmap exporter
+- [ ] Find a better theme
